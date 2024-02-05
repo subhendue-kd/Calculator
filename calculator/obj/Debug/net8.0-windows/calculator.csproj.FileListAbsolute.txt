@@ -1,0 +1,17 @@
+F:\Git\calculator\calculator\bin\Debug\net8.0-windows\calculator.exe
+F:\Git\calculator\calculator\bin\Debug\net8.0-windows\calculator.deps.json
+F:\Git\calculator\calculator\bin\Debug\net8.0-windows\calculator.runtimeconfig.json
+F:\Git\calculator\calculator\bin\Debug\net8.0-windows\calculator.dll
+F:\Git\calculator\calculator\bin\Debug\net8.0-windows\calculator.pdb
+F:\Git\calculator\calculator\obj\Debug\net8.0-windows\calculator.Form1.resources
+F:\Git\calculator\calculator\obj\Debug\net8.0-windows\calculator.csproj.GenerateResource.cache
+F:\Git\calculator\calculator\obj\Debug\net8.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git\calculator\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfoInputs.cache
+F:\Git\calculator\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfo.cs
+F:\Git\calculator\calculator\obj\Debug\net8.0-windows\calculator.csproj.CoreCompileInputs.cache
+F:\Git\calculator\calculator\obj\Debug\net8.0-windows\calculator.dll
+F:\Git\calculator\calculator\obj\Debug\net8.0-windows\refint\calculator.dll
+F:\Git\calculator\calculator\obj\Debug\net8.0-windows\calculator.pdb
+F:\Git\calculator\calculator\obj\Debug\net8.0-windows\calculator.genruntimeconfig.cache
+F:\Git\calculator\calculator\obj\Debug\net8.0-windows\ref\calculator.dll
+F:\Git\calculator\calculator\obj\Debug\net8.0-windows\calculator.Properties.Resources.resources
